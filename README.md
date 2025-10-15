@@ -2,4 +2,4 @@
 
 ## 🚀 Live Demo
 
-- [hugging-chef]()
+- [hugging-chef](https://hugging-chef.netlify.app/)
